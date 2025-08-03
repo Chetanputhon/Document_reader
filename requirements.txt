@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+python-docx
+pandas
+extract-msg
+pillow
+pytesseract
+google-generativeai
